@@ -2,7 +2,7 @@
 
 I'm a Data Scientist from India. 📊 My work is usually related to creating educational content for Machine Learning. Additionally, I'm driven by my passion for Open Source development 🌱.
 
-- 🌱 I'm excited to be honing my skills in `Rust` through contributing to various open source projects at present.
+- 🌱 I'm excited to be honing my skills in `Rust` through contributing to various open source projects.
 
 <!--
 **Diwakar-Gupta/Diwakar-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
